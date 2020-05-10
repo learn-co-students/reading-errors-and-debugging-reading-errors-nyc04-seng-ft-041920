@@ -34,7 +34,7 @@ discusses each error and how to resolve them. Everything you need to pass this
 lab can be found in the video, but additional examples are also provided further
 down this page.
 
-<iframe width="960" height="720" src="https://www.youtube.com/embed/L_eoziYKLXw?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/embed/L_eoziYKLXw?rel=0&showinfo=0
 
 ## Reading Error Messages
 
